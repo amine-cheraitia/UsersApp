@@ -1,0 +1,24 @@
+[
+  {
+    "id":"1",
+    "nom": "Brice",
+    "prenom": "nogue",
+    "login":"bricenogue",
+    "motdepasse": "azerty"
+  },
+  {
+    "id":"2",
+    "nom": "Amine",
+    "prenom": "nogue",
+    "login":"bricenogue",
+    "motdepasse": "azerty"
+  },
+  {
+    "id":"3",
+    "nom": "Oussama",
+    "prenom": "nogue",
+    "login":"bricenogue",
+    "motdepasse": "azerty"
+  },
+  
+]
